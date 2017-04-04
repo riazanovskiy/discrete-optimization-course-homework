@@ -1,3 +1,4 @@
 .ipynb_checkpoints/
 myciel*.col
 *.tsp
+*.graph
